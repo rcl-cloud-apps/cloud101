@@ -10,7 +10,7 @@ This tutorial will introduce users to the basics of cloud computing. It covers t
 - DNS
 - TLS/SSL certificates
 
-You can view the tutorial online at : []()
+You can view the tutorial online at : [Cloud 101](https://rcl-cloud-apps.github.io/cloud101/)
 
 ## Contribute to the tutorial
 
