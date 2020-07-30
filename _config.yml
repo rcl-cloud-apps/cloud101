@@ -4,4 +4,4 @@ color_scheme: "dark"
 search_enabled: true
 aux_links:
   "RCL Lets Encrypt Auto Renew Function Docs on GitHub":
-    - "https://github.com/rcl-letsencrypt-auto-ssl/AutoRenewFunctionDocs"
+    - "https://github.com/rcl-cloud-apps/cloud101"
