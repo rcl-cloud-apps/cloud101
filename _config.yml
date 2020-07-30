@@ -1,0 +1,7 @@
+title: "Cloud 101"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+aux_links:
+  "RCL Lets Encrypt Auto Renew Function Docs on GitHub":
+    - "https://github.com/rcl-letsencrypt-auto-ssl/AutoRenewFunctionDocs"
