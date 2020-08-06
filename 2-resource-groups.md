@@ -1,7 +1,7 @@
 ---
 title: 2. Resource Groups
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
 # Lesson 2 Resource Group
@@ -32,4 +32,4 @@ The **Location** is the location of the Microsoft data centre where your resourc
 
 ![rg](images/rg-list.PNG)
 
-if you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes a may take a few minutes time to create a new resource on Azure.
+if you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes a may take a few minutes to create a new resource on Azure.

@@ -3,5 +3,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 aux_links:
-  "RCL Lets Encrypt Auto Renew Function Docs on GitHub":
+  "Cloud 101 on GitHub":
     - "https://github.com/rcl-cloud-apps/cloud101"

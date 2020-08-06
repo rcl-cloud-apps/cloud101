@@ -1,7 +1,7 @@
 ---
 title: 1. Subscription
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Lesson 1 Cloud Subscription
