@@ -4,17 +4,17 @@ has_children: false
 nav_order: 6
 ---
 
-# Web App
+# Lesson 5 Web App
 
-You can install and use many popular open source web applications. In this section, you will learn how to install an eCommerce web application.
+You can install and use many popular open source web applications for your organization. In this lesson, you will learn how to install an e-Commerce web application.
 
 ## Prerequisites
 
-- Before you proceed with this tutorial, you should have created a **Resource Group** in your Subscription
+- Before you proceed with this lesson, you should have created a **Resource Group** in your Subscription
 
 - You should have created a **Plan** to host your web app
 
-- You should have created a **Database** to store the data for your web application
+- You should have created a **Database** to store the data for your web app
 
 ## Create a Web Application
 
@@ -26,7 +26,7 @@ You can install and use many popular open source web applications. In this secti
 
 ![webapp](images/webapp-create.PNG)
 
-This application is an ASP.NET + SQL Server application. It requires a SQL Server database for installation.
+This application is an ASP.NET + SQL Server application. It requires a **SQL Server database** for installation.
 
 - Select the **Resource Group** and **Plan** for the web app
 
@@ -36,13 +36,15 @@ This application is an ASP.NET + SQL Server application. It requires a SQL Serve
 
 ![webapp](images/webapp-create3.PNG)
 
-- In the 'Web Apps' list you will see the new web app. Wait for 5 minutes and Click on the 'Admin' link.
+- In the 'Web Apps' list you will see the new web app. 
 
 ![webapp](images/webapp-admin.PNG)
 
-if you don't see the new web app, wait a few minutes and click on the refresh link. Sometimes it may take a few minutes to create a new resource on Azure.
+if you don't see the new web app, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
 
-- When you create a new site and try to access it you may see that the site is unavailable. Wait for a few minutes and refresh the page
+- Wait for 5 minutes and click on the 'Admin' link.
+
+- When you create a new site and try to access it, you may see that the site is unavailable. Wait for a few minutes and refresh the page
 
 ![webapp](images/webapp-site-unavailable.PNG)
 
@@ -54,14 +56,16 @@ if you don't see the new web app, wait a few minutes and click on the refresh li
 
 ![webapp](images/webapp-site-under-construction.PNG)
 
-- Install nopCommerce, add admin email, username and password
+- After the site is constructed, install nopCommerce. Add admin email and password
 
 ![webapp](images/webapp-nop-install.PNG)
 
-- Add SQL Server name, Database name, SQL Server username and password. Click the 'Install' button when you are done
+- Add SQL Server name, Database name, SQL Server username and password. You will get the SQL Server name on the Database Server properties page.
+
+- Click the 'Install' button when you are done
 
 ![webapp](images/webapp-nop-install2.PNG)
 
-- You can login to the admin portal and add content to the eCommerce site
+- You can login to the admin portal of nopCommerce and add product content to build your e-Commerce site
 
 ![webapp](images/webapp-nop-site.PNG)

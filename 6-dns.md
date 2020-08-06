@@ -4,15 +4,17 @@ has_children: false
 nav_order: 7
 ---
 
-# DNS
+# Lesson 6 DNS
 
-A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product.
+A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product. In this lesson, you will learn how to set up a Domain Name System (DNS).
 
 ## Register a domain name
 
-- You can register your domain name with a domain registrar like [Godaddy](https://www.godaddy.com/domains) 
+- Register your domain name with a domain registrar, eg: [Godaddy](https://www.godaddy.com/domains) 
 
 ![dns](images/dns-godaddy.PNG)
+
+- The domain registrar will charge you an annual fee for the registration of your domain name
 
 ## Create a DNS Zone
 
@@ -22,19 +24,19 @@ A DNS Zone is use to manage your DNS record. DNS records are used to map your we
 
 ![dns](images/dns-open.PNG)
 
-- Add the domain name you registered previously and select a 'Resource Group'. Click the 'Submit' button when you are done
+- Add the domain name you registered previously in the 'DNS Zone Name' and select a 'Resource Group'. Click the 'Submit' button when you are done
 
 ![dns](images/dns-create.PNG)
 
-- The DNS Zone will be added to the 'DNS Zones' list
+- The DNS Zone will be added to the 'DNS Zones' list. if you don't see the new DNS Zone, wait a few minutes and click on the refresh link.
 
 ![dns](images/dns-list.PNG)
 
 ## DNS Delegation
 
-When you registered you domain with a domain registrar, eg GoDaddy, the registrar will allow you the **delegate** the management of the DNS records by any system of your choice.
+When you registered your domain with a domain registrar, eg GoDaddy, the registrar will allow you to **delegate** the management of the DNS records to any system of your choice.
 
-In this section, we will delegate your domain from the registrar to the 'RCL Web Apps + TLS' DNS.
+In this section, we will delegate your domain from the registrar to the 'RCL Web Apps + TLS' DNS Zone.
 
 - Before you can delegate your domain, you need to know the name servers for your DNS Zone. In the DNS Zones list, click on the 'Properties' link
 
@@ -44,9 +46,11 @@ In this section, we will delegate your domain from the registrar to the 'RCL Web
 
 ![dns](images/dns-ns2.PNG)
 
-- Now that you have the name servers, you need to update the parent domain with the DNS name servers. Each registrar has its own DNS management tools to change the name server records for a domain.
+- Now that you have the name servers, you need to update the parent domain with the DNS name servers
 
-- In your domain registrar, navigate to the DNS portal
+- Each registrar has its own DNS management tools to change the name server records for a domain
+
+- In your domain registrar (eg: GoDaddy), navigate to the DNS portal
 
 ![dns](images/dns-godaddy-open.PNG)
 
@@ -58,11 +62,11 @@ In this section, we will delegate your domain from the registrar to the 'RCL Web
 
 ![dns](images/dns-godaddy-ns-change2.PNG)
 
-- Add the name servers and save them
+- Add the name servers from your DNS Zone and save them
 
 ![dns](images/dns-godaddy-ns-change3.PNG)
 
-- Your domain name is now fully delegated to your DNS Zone
+- Your domain name from your registrar is now fully delegated to your DNS Zone
 
 ![dns](images/dns-godaddy-ns-change4.PNG)
 

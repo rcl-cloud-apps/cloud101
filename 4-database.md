@@ -4,19 +4,19 @@ has_children: false
 nav_order: 5
 ---
 
-# Database
+# Lesson 4 Database
 
-Databases store data for your web applications. In this section, we will create a database.
+Databases store data for your web applications. In this section, we will create a database server and a database.
 
 ## Prerequisites
 
-Before you proceed with this tutorial, you should have created a **Resource Group** in your Subscription
+Before you proceed with this lesson, you should have created a **Resource Group** in your Subscription
 
 ## Create a Database Server
 
 A Database Server will host one or more databases. To create a database server, follow these instructions :
 
-- In the 'RCL Web Apps + TLS/SSL' portal side menu click on 'Databases'
+- In the 'RCL Web Apps + TLS/SSL' portal side menu, click on 'Databases'
 
 - Click on the 'Create a new Database Server' link
 
@@ -30,9 +30,9 @@ A Database Server will host one or more databases. To create a database server, 
 
 ![Database](images/database-list.PNG)
 
-if you don't see the new Database Server, wait a few minutes and click on the refresh link. Sometimes it may take a few minutes to create a new resource on Azure.
+If you don't see the new Database Server, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
 
-SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, etc. If you intent to install a ASP.NET application, a SQL Server and Database are requirements for the installation.
+SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopCommerce, etc. If you intend to install a ASP.NET application, a SQL Server and Database are requirements for the installation.
 
 ## Create a Database
 
@@ -44,7 +44,7 @@ SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, etc. If
 
 ![Database](images/database-database-create2.PNG)
 
-- Create a new 'Basic' database
+- Add a database name and create a new 'Basic' database. Write down and store the password in a safe location so that you won't forget it.
 
 ![Database](images/database-database-create3.PNG)
 
@@ -52,7 +52,7 @@ SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, etc. If
 
 ![Database](images/database-database-list.PNG)
 
-if you don't see the new Database, wait a few minutes and click on the refresh link. Sometimes it may take a few minutes to create a new resource on Azure.
+If you don't see the new Database, wait a few minutes and click on the refresh link. 
 
 ## Add a Firewall Rule
 

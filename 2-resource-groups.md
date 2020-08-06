@@ -18,18 +18,18 @@ A **Resource Group** is a container that holds your cloud resources. It is used 
 
 ![rg](images/rg-open.PNG)
 
-- Add a 'Name' for the resource group and select a 'Location'. Click the submit button when you are done
+- Add a 'Name' for the resource group and select a 'Location'. Click the 'Submit' button when you are done
 
 ![rg](images/rg-create.PNG)
 
-The **Location** is the location of the Microsoft data centre where your resources will be installed 
+The 'Location' is the location of the Microsoft data centre where your resources will be installed 
 
-- The create operation will be submitted to Azure for installation. It may take up to 15 mins for the operation to complete
+- The 'create operation' will be submitted to Azure for installation. It may take up to 15 mins for the operation to complete
 
 ![rg](images/rg-submitted.PNG)
 
-- In the 'Resource Group List' , you will see the new resource that you created
+- In the 'Resource Group List' , you will see the new resource group that you created
 
 ![rg](images/rg-list.PNG)
 
-if you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes a may take a few minutes to create a new resource on Azure.
+If you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.

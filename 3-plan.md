@@ -30,7 +30,7 @@ Before you proceed with this lesson, you should have already created a [Resource
 
 ![plan](images/plan-create.PNG)
 
-- Create a 'Windows' 'Basic' plan 
+- Create a 'Basic' plan on the 'Windows' operating system
 
 ![plan](images/plan-create2.PNG)
 
@@ -38,7 +38,7 @@ Before you proceed with this lesson, you should have already created a [Resource
 
 ![plan](images/plan-list.PNG)
 
-if you don't see the new Plan, wait a few minutes and click on the refresh link. Sometimes it may take a few minutes to create a new resource on Azure.
+If you don't see the new Plan, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
 
 
 

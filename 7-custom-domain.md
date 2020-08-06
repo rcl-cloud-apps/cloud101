@@ -4,21 +4,19 @@ has_children: false
 nav_order: 8
 ---
 
-# Custom Domain
+# Lesson 7 Custom Domain
 
-Your website is currently hosted with a shared domain name , eg: https://nop-69666.azurewebsites.net/. You will need to host your website with your own custom domain. This will promote the credibility of your organization or product.
-
-## Pre requisites
-
-TODO
+Your website is currently hosted with a shared domain name , eg: 'https://nop-69666.azurewebsites.net'. You will need to host your website with your own custom domain. This will promote the credibility of your organization or product.
 
 ## Create a Custom Domain
 
-- In the 'RCL Web Apps + TLS/SSL' portal, click on the 'Domains' link
+- In the 'RCL Web Apps + TLS/SSL' portal, click on 'Web Apps' 
+
+- In your web app click on the 'Domains' link
 
 ![custom-domain](images/custom-domain-open.PNG)
 
-- In the custom domains page, click on the 'Add a Custom Domain' link
+- In the Custom Domains page, click on the 'Add a Custom Domain' link
 
 ![custom-domain](images/custom-domain-add.PNG)
 
@@ -26,7 +24,7 @@ TODO
 
 ![custom-domain](images/custom-domain-create.PNG)
 
-- Add the custom domain
+- Add the custom domain and your DNS Zone
 
 ![custom-domain](images/custom-domain-create2.PNG)
 
@@ -34,9 +32,9 @@ TODO
 
 ![custom-domain](images/custom-domain-create3.PNG)
 
-- When the custom domain is created it will be displayed in the 'Custom Domains' list. Click on the custom domain link to navigate to your website
+- When the custom domain is created, it will be displayed in the 'Custom Domains' list. Click on the custom domain link to navigate to your website
 
-![custom-domain](images/custom-domain-create3.PNG)
+![custom-domain](images/custom-domain-list.PNG)
 
 - You can navigate to your custom domain using your custom domain, eg : 'https://shopeneur.com', and you will be able to access your website in the browser
 
