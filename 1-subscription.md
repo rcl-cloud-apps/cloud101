@@ -29,7 +29,7 @@ In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Az
 
 ## Subscribe to RCL Web Apps + TLS/SSL
 
-Your cloud resources will be provided by Microsoft Azure, you will create and manage these services with the **RCL Web Apps + TLS/SSL** cloud management portal.
+Your cloud resources will be provided by Microsoft Azure (data centre servers, hardware, networking and platforms), you will use these services in the **RCL Web Apps + TLS/SSL** cloud management portal to create web applications for your business.
 
 - TODO
 

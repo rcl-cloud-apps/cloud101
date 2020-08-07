@@ -8,6 +8,10 @@ nav_order: 3
 
 A **Plan** is used to host one or more web applications. 
 
+## Prerequisites
+
+- Before you proceed with this lesson, you should have already created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) 
+
 ## SKU/Tiers
 
 The **SKU / Tier** of a **Plan** will determine the compute power and storage capacity of the Plan. The higher the tier, the more compute and storage is allocated to the Plan. Currently, there are three SKU/Tiers available :
@@ -19,10 +23,6 @@ The **SKU / Tier** of a **Plan** will determine the compute power and storage ca
 The SKU/Tiers above are arranged in increasing size.
 
 You will pay an hourly rate for each SKU/Tier. This rate will apply even though the web applications in the Plan are not running.
-
-## Prerequisites
-
-Before you proceed with this lesson, you should have already created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) 
 
 ## Create a Plan
 

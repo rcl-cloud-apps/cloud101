@@ -6,7 +6,7 @@ nav_order: 1
 
 # Introduction
 
-In this series of hands-on lessons, you will learn the basics of cloud computing by installing and hosting an eCommerce site in the cloud.
+In this series of hands-on lessons, you will learn the basics of cloud computing by installing and hosting an e-Commerce site in the cloud.
 
 ![webapp](images/webapp-nop-site.PNG)
 

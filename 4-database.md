@@ -10,7 +10,7 @@ Databases store data for your web applications. In this section, we will create 
 
 ## Prerequisites
 
-Before you proceed with this lesson, you should have created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) in your Subscription
+- Before you proceed with this lesson, you should have created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) in your Subscription
 
 ## Create a Database Server
 
