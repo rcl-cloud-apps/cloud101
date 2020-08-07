@@ -44,7 +44,7 @@ SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopComm
 
 ![Database](images/database-database-create2.PNG)
 
-- Add a database name and create a new 'Basic' database. Write down and store the password in a safe location so that you won't forget it.
+- Add a database name and create a new 'Basic' database. Write down and store the password in a safe location so that you won't forget it
 
 ![Database](images/database-database-create3.PNG)
 

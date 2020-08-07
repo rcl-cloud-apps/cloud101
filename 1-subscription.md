@@ -8,7 +8,7 @@ nav_order: 2
 
 You will need to subscribe to a **cloud service provider** to use their resources. You will pay a monthly fee for the cloud services that you consume.
 
-In this lesson, we will subscribe for a free 30 day trial of the **Microsoft Azure Cloud**. You will then the **RCL Web Apps + TLS** portal to manage your Microsoft Azure could services.
+In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Azure Cloud**. You will then use the **RCL Web Apps + TLS** portal to manage your Microsoft Azure could services.
 
 ## Subscribe to Microsoft Azure Cloud
 

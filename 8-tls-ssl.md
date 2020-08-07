@@ -12,7 +12,21 @@ You will access your website using 'https' and a secure icon is shown in the bro
 
 ![ssl](images/ssl-browser.PNG)
 
+## Prerequisites
+
+- Before you proceed with this lesson, you should have registered a **domain name** with a domain registrar, eg: GoDaddy
+
+- You should have created a **DNS Zone** in your Subscription
+
+- You should have **delegated** your DNS from your domain registrar to your DNS Zone
+
+- You should have created a **Web App** in your Subscription
+
+- You should have added a **Custom Domain** to your web app
+
 ## View TLS/SSL certificates
+
+When you create a custom domain for a web app, a TLS/SSL certificate is automatically created for you and bound to the web app
 
 - In the 'RCL Web Apps + TLS/SSL' portal, click on the 'TLS/SSL Certificate' link
 

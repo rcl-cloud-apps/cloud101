@@ -18,13 +18,13 @@ A **domain name** is the web address that people type into the URL browser box t
 
 ## Create a DNS Zone
 
-A DNS Zone is use to manage your DNS record. DNS records are used to map your website to your domain name.
+A DNS Zone is use to manage your DNS records. DNS records are used to map your website to your domain name.
 
 - In the 'RCL Web Apps + TLS/SSL' portal, click on 'DNS' and then click on 'Create a new DNS Zone'
 
 ![dns](images/dns-open.PNG)
 
-- Add the domain name you registered previously in the 'DNS Zone Name' and select a 'Resource Group'. Click the 'Submit' button when you are done
+- Add the domain name you registered previously in the 'DNS Zone Name' text box and select a 'Resource Group'. Click the 'Submit' button when you are done
 
 ![dns](images/dns-create.PNG)
 
@@ -42,7 +42,7 @@ In this section, we will delegate your domain from the registrar to the 'RCL Web
 
 ![dns](images/dns-ns.PNG)
 
-- Retrieve the name servers from the DNS zone page
+- Retrieve the name servers from the DNS Zone page
 
 ![dns](images/dns-ns2.PNG)
 

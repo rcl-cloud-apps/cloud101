@@ -8,11 +8,21 @@ nav_order: 8
 
 Your website is currently hosted with a shared domain name , eg: 'https://nop-69666.azurewebsites.net'. You will need to host your website with your own custom domain. This will promote the credibility of your organization or product.
 
+## Prerequisites
+
+- Before you proceed with this lesson, you should have registered a **domain name** with a domain registrar, eg: GoDaddy
+
+- You should have created a **DNS Zone** in your Subscription
+
+- You should have **delegated** your DNS from your domain registrar to your DNS Zone
+
+- You should have created a **Web App** in your Subscription
+
 ## Create a Custom Domain
 
 - In the 'RCL Web Apps + TLS/SSL' portal, click on 'Web Apps' 
 
-- In your web app click on the 'Domains' link
+- In your web app, click on the 'Domains' link
 
 ![custom-domain](images/custom-domain-open.PNG)
 
@@ -24,7 +34,7 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 
 ![custom-domain](images/custom-domain-create.PNG)
 
-- Add the custom domain and your DNS Zone
+- Add the custom domain you registered and your DNS Zone
 
 ![custom-domain](images/custom-domain-create2.PNG)
 
