@@ -10,11 +10,11 @@ You can install and use many popular open source web applications for your organ
 
 ## Prerequisites
 
-- Before you proceed with this lesson, you should have created a **Resource Group** in your Subscription
+- Before you proceed with this lesson, you should have created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) in your Subscription
 
-- You should have created a **Plan** to host your web app
+- You should have created a [Plan](https://rcl-cloud-apps.github.io/cloud101/3-plan.html) to host your web app
 
-- You should have created a **Database** to store the data for your web app
+- You should have created a [Database](https://rcl-cloud-apps.github.io/cloud101/4-database.html) to store the data for your web app
 
 ## Create a Web Application
 

@@ -14,15 +14,15 @@ You will access your website using 'https' and a secure icon is shown in the bro
 
 ## Prerequisites
 
-- Before you proceed with this lesson, you should have registered a **domain name** with a domain registrar, eg: GoDaddy
+- Before you proceed with this lesson, you should have registered a [domain name](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) with a domain registrar, eg: GoDaddy
 
-- You should have created a **DNS Zone** in your Subscription
+- You should have created a [DNS Zone](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) in your Subscription
 
-- You should have **delegated** your DNS from your domain registrar to your DNS Zone
+- You should have [delegated](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) your DNS from your domain registrar to your DNS Zone
 
-- You should have created a **Web App** in your Subscription
+- You should have created a [Web App](https://rcl-cloud-apps.github.io/cloud101/5-webapp.html) in your Subscription
 
-- You should have added a **Custom Domain** to your web app
+- You should have added a [Custom Domain](https://rcl-cloud-apps.github.io/cloud101/7-custom-domain.html) to your web app
 
 ## View TLS/SSL certificates
 
