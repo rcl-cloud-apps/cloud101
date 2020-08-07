@@ -81,3 +81,7 @@ The new firewall rule is shown below
 ![Database](images/database-firewall-created.PNG)
 
 Now, all web apps in your subscription can access the database through the database server firewall.
+
+# Next Lesson
+
+[Lesson 5 Web App](https://rcl-cloud-apps.github.io/cloud101/5-webapp.html)

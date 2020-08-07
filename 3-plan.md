@@ -1,5 +1,5 @@
 ---
-title: 3. Plan
+title: 3. Plans
 has_children: false
 nav_order: 3
 ---
@@ -40,7 +40,9 @@ Before you proceed with this lesson, you should have already created a [Resource
 
 If you don't see the new Plan, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
 
+# Next Lesson
 
+[Lesson 4 Database](https://rcl-cloud-apps.github.io/cloud101/4-database.html)
 
 
 

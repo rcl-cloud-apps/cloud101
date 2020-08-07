@@ -39,3 +39,7 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 - You can navigate to your custom domain using your custom domain, eg : 'https://shopeneur.com', and you will be able to access your website in the browser
 
 ![custom-domain](images/custom-domain-site.PNG)
+
+# Next Lesson
+
+[Lesson 8 TLS/SSL](https://rcl-cloud-apps.github.io/cloud101/8-tls-ssl.html)

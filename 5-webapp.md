@@ -69,3 +69,7 @@ if you don't see the new web app, wait a few minutes and click on the refresh li
 - You can login to the admin portal of nopCommerce and add product content to build your e-Commerce site
 
 ![webapp](images/webapp-nop-site.PNG)
+
+# Next Lesson
+
+[Lesson 6 DNS](https://rcl-cloud-apps.github.io/cloud101/6-dns.html)

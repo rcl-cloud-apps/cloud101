@@ -70,5 +70,6 @@ In this section, we will delegate your domain from the registrar to the 'RCL Web
 
 ![dns](images/dns-godaddy-ns-change4.PNG)
 
+# Next Lesson
 
- 
+[Lesson 7 Custom Domain](https://rcl-cloud-apps.github.io/cloud101/7-custom-domain.html)

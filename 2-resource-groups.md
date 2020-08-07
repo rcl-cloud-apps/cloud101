@@ -33,3 +33,7 @@ The 'Location' is the location of the Microsoft data centre where your resources
 ![rg](images/rg-list.PNG)
 
 If you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
+
+# Next Lesson
+
+[Lesson 3 Plans](https://rcl-cloud-apps.github.io/cloud101/3-plan.html)

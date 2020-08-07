@@ -33,3 +33,7 @@ Your cloud resources will be provided by Microsoft Azure, you will create and ma
 
 - TODO
 
+# Next Lesson
+
+[Lesson 2 Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html)
+
