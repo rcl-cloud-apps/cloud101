@@ -8,6 +8,8 @@ nav_order: 1
 
 In this series of hands-on lessons, you will learn the basics of cloud computing by installing and hosting an eCommerce site in the cloud.
 
+![webapp](images/webapp-nop-site.PNG)
+
 ## What is cloud computing
 
 Cloud computing allows you to use resources provided by a **cloud service provider** instead of purchasing your own hardware and software. 
