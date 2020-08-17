@@ -1,10 +1,10 @@
 ---
-title: 6. DNS
+title:  DNS
 has_children: false
 nav_order: 7
 ---
 
-# Lesson 6 DNS
+# Lesson DNS
 
 A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product. In this lesson, you will learn how to set up a Domain Name System (DNS).
 

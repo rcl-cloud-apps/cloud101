@@ -1,10 +1,10 @@
 ---
-title: 1. Subscription
+title: Subscription
 has_children: false
 nav_order: 2
 ---
 
-# Lesson 1 Cloud Subscription
+# Lesson Cloud Subscription
 
 You will need to subscribe to a **cloud service provider** to use their resources. You will pay a monthly fee for the cloud services that you consume.
 

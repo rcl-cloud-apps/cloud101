@@ -1,10 +1,10 @@
 ---
-title: 3. Plans
+title: Plans
 has_children: false
 nav_order: 3
 ---
 
-# Lesson 3 Plans
+# Lesson Plans
 
 A **Plan** is used to host one or more web applications. 
 
@@ -38,11 +38,8 @@ You will pay an hourly rate for each SKU/Tier. This rate will apply even though 
 
 ![plan](images/plan-list.PNG)
 
-If you don't see the new Plan, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
+If you don't see the new Plan, wait a few minutes and click on the refresh link. 
 
 # Next Lesson
 
 [Lesson 4 Database](https://rcl-cloud-apps.github.io/cloud101/4-database.html)
-
-
-

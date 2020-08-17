@@ -1,10 +1,10 @@
 ---
-title: 8. TLS/SSL
+title: TLS/SSL
 has_children: false
 nav_order: 9
 ---
 
-# Lesson 8 TLS/SSL
+# Lesson TLS/SSL
 
 TLS/SSL allows your website data to be transported securely. In recent times, TLS/SSL has become a mandatory requirement for a website.
 

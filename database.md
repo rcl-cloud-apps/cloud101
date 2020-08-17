@@ -1,10 +1,10 @@
 ---
-title: 4. Database
+title: Database
 has_children: false
 nav_order: 5
 ---
 
-# Lesson 4 Database
+# Lesson Database
 
 Databases store data for your web applications. In this section, we will create a database server and a database.
 
@@ -30,7 +30,7 @@ A Database Server will host one or more databases. To create a database server, 
 
 ![Database](images/database-list.PNG)
 
-If you don't see the new Database Server, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
+If you don't see the new Database Server, wait a few minutes and click on the refresh link.
 
 SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopCommerce, etc. If you intend to install a ASP.NET application, a SQL Server and Database are requirements for the installation.
 

@@ -1,10 +1,10 @@
 ---
-title: 7. Custom Domain
+title: Custom Domain
 has_children: false
 nav_order: 8
 ---
 
-# Lesson 7 Custom Domain
+# Lesson Custom Domain
 
 Your website is currently hosted with a shared domain name , eg: 'https://nop-69666.azurewebsites.net'. You will need to host your website with your own custom domain. This will promote the credibility of your organization or product.
 

@@ -1,10 +1,10 @@
 ---
-title: 2. Resource Groups
+title: Resource Groups
 has_children: false
 nav_order: 3
 ---
 
-# Lesson 2 Resource Group
+# Lesson Resource Group
 
 A **Resource Group** is a container that holds your cloud resources. It is used as a tool to organize and manage your cloud resources. A resource group will contain your plans, web apps, databases, etc.
 
@@ -32,7 +32,7 @@ The 'Location' is the location of the Microsoft data centre where your resources
 
 ![rg](images/rg-list.PNG)
 
-If you don't see the new Resource Group, wait a few minutes and click on the refresh link. Sometimes, it may take a few minutes to create a new resource on Azure.
+If you don't see the new Resource Group, wait a few minutes and click on the refresh link.
 
 # Next Lesson
 

@@ -1,10 +1,10 @@
 ---
-title: 5. Web App
+title: Web App
 has_children: false
 nav_order: 6
 ---
 
-# Lesson 5 Web App
+# Lesson Web App
 
 You can install and use many popular open source web applications for your organization. In this lesson, you will learn how to install an e-Commerce web application.
 
