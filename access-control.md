@@ -30,7 +30,7 @@ After you select a subscription, click on the 'My permissions' link for the subs
 
 ![Access Control](images/access-control-admin.PNG)
 
-- Here you can determine if you AAD account is an administrator or not 
+- Here your can determine if you AAD account is an administrator or not 
 
 ### Owner or Contributor roles
 
