@@ -10,7 +10,7 @@ Databases store data for your web applications. In this section, we will create 
 
 ## Prerequisites
 
-- Before you proceed with this lesson, you should have created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) in your Subscription
+- Before you proceed with this lesson, you should have created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/resource-groups.html) in your Subscription
 
 ## Create a Database Server
 
@@ -26,13 +26,21 @@ A Database Server will host one or more databases. To create a database server, 
 
 ![Database](images/database-create.PNG)
 
-- In the 'Database Servers List', you will see the new SQL Server
+- Ensure the Database Server Type is set to 'SQL Server'
+
+- The 'Admin Password' should be at least 12 characters long. It must contain common letters, at least one capital letter, at least one number and at least one none alphanumeric character (#, !, $, %, etc.). Save the password in a safe place so that you will not forget it.
+
+- Click the submit button when you are done
+
+- The Database Server will be submitted to your cloud account for installation, you will need to wait for up to 15 minutes for the Database Server to be created
 
 ![Database](images/database-list.PNG)
 
+- In the 'Database Servers List', you will see the new SQL Server
+
 If you don't see the new Database Server, wait a few minutes and click on the refresh link.
 
-SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopCommerce, etc. If you intend to install a ASP.NET application, a SQL Server and Database are requirements for the installation.
+SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopCommerce, etc. If you intend to install an ASP.NET application, a SQL Server and Database are requirements for the installation.
 
 ## Create a Database
 
@@ -44,7 +52,13 @@ SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopComm
 
 ![Database](images/database-database-create2.PNG)
 
-- Add a database name and create a new 'Basic' database. Write down and store the password in a safe location so that you won't forget it
+- Add a database name and create a new 'Basic' database. 
+
+There are three SKU/Tiers based on storage size and compute power. The SKU/Tiers are as follows:
+
+- Basic - Development and testing
+- Standard S0 - Light workloads
+- Standard S1 - Production workloads
 
 ![Database](images/database-database-create3.PNG)
 
@@ -53,6 +67,18 @@ SQL Servers are used for ASP.NET web applications, eg. Orchard CMS, DNN, nopComm
 ![Database](images/database-database-list.PNG)
 
 If you don't see the new Database, wait a few minutes and click on the refresh link. 
+
+## Database Properties
+
+The configuration and credentials to connect to the SQL Database is provided in the 'Properties' page.
+
+- In the databases list, click on the 'Properties' link for the database
+
+![Database](images/database-sqldb-properties.PNG)
+
+- The properties page will provide you with the information to connect to the database
+
+![Database](images/database-sqldb-properties2.PNG)
 
 ## Add a Firewall Rule
 

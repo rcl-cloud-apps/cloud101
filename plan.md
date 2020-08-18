@@ -10,7 +10,7 @@ A **Plan** is used to host one or more web applications.
 
 ## Prerequisites
 
-- Before you proceed with this lesson, you should have already created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html) 
+- Before you proceed with this lesson, you should have already created a [Resource Group](https://rcl-cloud-apps.github.io/cloud101/resource-groups.html) 
 
 ## SKU/Tiers
 

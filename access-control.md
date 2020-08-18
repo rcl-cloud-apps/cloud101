@@ -34,9 +34,11 @@ After you select a subscription, click on the 'My permissions' link for the subs
 
 ### Owner or Contributor roles
 
-If your AAD account that you use to lo in to **RCL Web Apps + TLS/SSL** is not an administrator in the Azure subscription, you need add the AAD account as an 'Owner' or 'Contributor' to the Azure subscription.
+If the AAD account that you use to log in to **RCL Web Apps + TLS/SSL** is not an administrator in the Azure subscription, you need add the AAD account as an 'Owner' or 'Contributor' to the Azure subscription.
 
-You will do this in the **IAM** area of the Subscription section.
+- Click on the the 'Access Control (IAM)' link in the Subscription section
+
+- Click on the 'Add' link to add a new role 
 
 - Add a "Contributor' or 'Owner' role assignment to your subscription for the AAD account that you use to login to **RCL Web Apps + TLS/SSL** 
 
@@ -50,7 +52,7 @@ You will do this in the **IAM** area of the Subscription section.
 
 ## Test Access Control
 
-Once access control is properly set up for the AAD account that you use to login to **RCL Web Apps + RCL/TLS**, you will see the Azure subscription(s) in the 'Get Azure Subscription' page
+Once access control is properly set up for the AAD account that you use to login to **RCL Web Apps + RCL/TLS**, you will see the Azure subscription(s) in the 'Get Azure Subscription' page of the app
 
 
 ![Access Control](images/access-control-get-subscriptions.PNG)
