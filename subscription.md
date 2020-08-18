@@ -61,7 +61,7 @@ You can use this new organizational account to login in to the RCL Web Apps + TL
 
 Your cloud resources will be provided by Microsoft Azure (data centre servers, hardware, networking and platforms), you will use these services in the **RCL Web Apps + TLS/SSL** cloud management portal to create web applications for your business.
 
-In this section, you will subscribe to a free 30 day trial of the **RCL Web Apps + TLS/SSL** SaaS application.
+In this section, you will subscribe for a free 30 day trial of the **RCL Web Apps + TLS/SSL** SaaS application.
 
 - In the Azure Portal, search for the 'Marketplace' and open it
 
