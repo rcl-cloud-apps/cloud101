@@ -4,7 +4,7 @@ has_children: false
 nav_order: 4
 ---
 
-# Lesson Resource Group
+# Lesson: Resource Group
 
 A **Resource Group** is a container that holds your cloud resources. It is used as a tool to organize and manage your cloud resources. A resource group will contain your plans, web apps, databases, etc.
 
@@ -36,4 +36,4 @@ If you don't see the new Resource Group, wait a few minutes and click on the ref
 
 # Next Lesson
 
-[Lesson 3 Plans](https://rcl-cloud-apps.github.io/cloud101/3-plan.html)
+[Plans](https://rcl-cloud-apps.github.io/cloud101/plan.html)

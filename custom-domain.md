@@ -4,7 +4,7 @@ has_children: false
 nav_order: 9
 ---
 
-# Lesson Custom Domain
+# Lesson: Custom Domain
 
 Your website is currently hosted with a shared domain name , eg: 'https://nop-69666.azurewebsites.net'. You will need to host your website with your own custom domain. This will promote the credibility of your organization or product.
 
@@ -52,4 +52,4 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 
 # Next Lesson
 
-[Lesson 8 TLS/SSL](https://rcl-cloud-apps.github.io/cloud101/8-tls-ssl.html)
+[TLS/SSL](https://rcl-cloud-apps.github.io/cloud101/tls-ssl.html)

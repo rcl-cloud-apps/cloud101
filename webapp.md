@@ -4,7 +4,7 @@ has_children: false
 nav_order: 7
 ---
 
-# Lesson Web App
+# Lesson: Web App
 
 You can install and use many popular open source web applications for your organization. In this lesson, you will learn how to install an e-Commerce web application.
 
@@ -72,4 +72,4 @@ if you don't see the new web app, wait a few minutes and click on the refresh li
 
 # Next Lesson
 
-[Lesson 6 DNS](https://rcl-cloud-apps.github.io/cloud101/6-dns.html)
+[DNS](https://rcl-cloud-apps.github.io/cloud101/dns.html)

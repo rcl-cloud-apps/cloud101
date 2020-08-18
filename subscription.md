@@ -4,7 +4,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Lesson Cloud Subscription
+# Lesson: Cloud Subscription
 
 You will need to subscribe to a **cloud service provider** to use their resources. You will pay a monthly fee for the cloud services that you consume.
 
@@ -69,5 +69,5 @@ Your cloud resources will be provided by Microsoft Azure (data centre servers, h
 
 # Next Lesson
 
-[Lesson Access Control](https://rcl-cloud-apps.github.io/cloud101/access-control.html)
+[Access Control](https://rcl-cloud-apps.github.io/cloud101/access-control.html)
 

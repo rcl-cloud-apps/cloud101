@@ -4,7 +4,7 @@ has_children: false
 nav_order: 6
 ---
 
-# Lesson Database
+# Lesson: Database
 
 Databases store data for your web applications. In this section, we will create a database server and a database.
 
@@ -84,4 +84,4 @@ Now, all web apps in your subscription can access the database through the datab
 
 # Next Lesson
 
-[Lesson 5 Web App](https://rcl-cloud-apps.github.io/cloud101/5-webapp.html)
+[Web App](https://rcl-cloud-apps.github.io/cloud101/webapp.html)

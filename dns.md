@@ -4,7 +4,7 @@ has_children: false
 nav_order: 8
 ---
 
-# Lesson DNS
+# Lesson: DNS
 
 A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product. In this lesson, you will learn how to set up a Domain Name System (DNS).
 
@@ -72,4 +72,4 @@ In this section, we will delegate your domain from the registrar to the 'RCL Web
 
 # Next Lesson
 
-[Lesson 7 Custom Domain](https://rcl-cloud-apps.github.io/cloud101/7-custom-domain.html)
+[Custom Domain](https://rcl-cloud-apps.github.io/cloud101/custom-domain.html)
