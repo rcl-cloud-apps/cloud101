@@ -1,7 +1,7 @@
 ---
 title: Custom Domain
 has_children: false
-nav_order: 8
+nav_order: 9
 ---
 
 # Lesson Custom Domain

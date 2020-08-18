@@ -31,9 +31,43 @@ In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Az
 
 Your cloud resources will be provided by Microsoft Azure (data centre servers, hardware, networking and platforms), you will use these services in the **RCL Web Apps + TLS/SSL** cloud management portal to create web applications for your business.
 
-- TODO
+- In the Azure Portal, search for the 'Marketplace' and open it
+
+![subscription](images/subscribe-marketplace.PNG)
+
+- In the 'Marketplace', search for RCL Web Apps +TLS/SSL and open it
+
+![subscription](images/subscribe-rcl-webapps.PNG)
+
+- Select the plan and click the 'Set up + subscribe' button
+
+![subscription](images/subscribe-rcl-webapps2.PNG)
+
+- Add the subscription information, accept the Terms of Service and click the 'Subscribe' button
+
+![subscription](images/subscribe-rcl-webapps3.PNG)
+
+- After the subscription is complete, click on the 'Configure SasS account on publisher's site'
+
+![subscription](images/subscribe-rcl-webapps4.PNG)
+
+- **Login in with same account that you use to manage your azure subscription**
+
+![subscription](images/subscribe-rcl-webapps5.PNG)
+
+- Add your e-mail contact and click the 'Submit' button to activate your account
+
+![subscription](images/subscribe-rcl-webapps6.PNG)
+
+- Your subscription is now activated. Click the continue button to start using the application
+
+![subscription](images/subscribe-rcl-webapps7.PNG)
+
+- You will be directed to the application dashboard
+
+![subscription](images/subscribe-rcl-webapps8.PNG)
 
 # Next Lesson
 
-[Lesson 2 Resource Group](https://rcl-cloud-apps.github.io/cloud101/2-resource-groups.html)
+[Lesson Access Control](https://rcl-cloud-apps.github.io/cloud101/access-control.html)
 
