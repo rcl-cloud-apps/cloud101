@@ -6,7 +6,7 @@ nav_order: 2
 
 # Lesson: Cloud Subscription
 
-You will need to subscribe to a **cloud service provider** to use their resources. You will pay a monthly fee for the cloud services that you consume.
+You will need to subscribe to a **cloud service provider** to use their resources. You pay a monthly fee for the cloud services that you consume.
 
 In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Azure Cloud**. You will then use the **RCL Web Apps + TLS** portal to manage your Microsoft Azure could services.
 
@@ -28,7 +28,7 @@ In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Az
 
 ## Azure Active Directory Organizational Account
 
-An Azure Active Directory organizational account is required to sign in to the RCL Web Apps + TLS SaaS application. An organizational account is sometimes called a 'Work or School' account.
+An Azure Active Directory organizational account is required to sign in to the **RCL Web Apps + TLS** SaaS application. An organizational account is sometimes called a 'Work or School' account.
 
 In this section, we will create an organizational account (Work or School account) in Azure Active Directory. 
 
@@ -54,7 +54,7 @@ In this section, we will create an organizational account (Work or School accoun
 
 ![subscription](images/aad-user-member.PNG)
 
-You can use this new organizational account to login in to the RCL Web Apps + TLS/SSL to create a new subscription.
+You can use this new organizational account to login in to  **RCL Web Apps + TLS/SSL** to create a new subscription.
 
 
 ## Subscribe to RCL Web Apps + TLS/SSL
