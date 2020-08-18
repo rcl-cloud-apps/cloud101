@@ -26,6 +26,34 @@ In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Az
 
 ![subscription](images/subscribe-azure2.PNG)
 
+## Azure Active Directory Organizational Account
+
+An Azure Active Directory organizational account is required to sign in to the RCL Web Apps + TLS SaaS application. An organizational account is sometimes called a 'Work or School' account.
+
+In this section, we will create an organizational account (Work or School account) in Azure Active Directory. 
+
+- In the Azure Portal, search for the Azure Active Directory and open it
+
+![subscription](images/aad-open.PNG)
+
+- If you don't have a tenant , you can click on the 'Create a tenant' link to create a new Azure Active Directory tenant for your organization
+
+![subscription](images/aad-tenant.PNG)
+
+- In your tenant, click the 'Users' link, then click the 'New user' link to create a new user
+
+![subscription](images/aad-users.PNG)
+
+- Create the new user
+
+![subscription](images/aad-user-create.PNG)
+
+- Ensure the new user is a member in your organization
+
+![subscription](images/aad-user-member.PNG)
+
+You can use this new organizational account to login in to the RCL Web Apps + TLS/SSL to create a new subscription.
+
 
 ## Subscribe to RCL Web Apps + TLS/SSL
 
@@ -51,7 +79,7 @@ Your cloud resources will be provided by Microsoft Azure (data centre servers, h
 
 ![subscription](images/subscribe-rcl-webapps4.PNG)
 
-- **Login in with same account that you use to manage your azure subscription**
+- **Login in with the organizational account (Work Account) that you created in your Azure Active Directory**
 
 ![subscription](images/subscribe-rcl-webapps5.PNG)
 
