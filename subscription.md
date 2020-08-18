@@ -103,7 +103,7 @@ In this section, you will subscribe for a free 30 day trial of the **RCL Web App
 
 - You can access the RCL Web Apps + TLS/SSL SaaS application at the following url:
 
-https://rcl-cloudapps.azurewebsites.net
+[https://rcl-cloudapps.azurewebsites.net](https://rcl-cloudapps.azurewebsites.net)
 
 - You can also access the application in the Azure portal
 
