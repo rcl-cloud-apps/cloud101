@@ -40,6 +40,8 @@ In this section, we will create an organizational account (Work or School accoun
 
 ![subscription](images/aad-tenant.PNG)
 
+- Open your tenant
+
 - In your tenant, click the 'Users' link, then click the 'New user' link to create a new user
 
 ![subscription](images/aad-users.PNG)
@@ -94,6 +96,28 @@ Your cloud resources will be provided by Microsoft Azure (data centre servers, h
 - You will be directed to the application dashboard
 
 ![subscription](images/subscribe-rcl-webapps8.PNG)
+
+## Accessing RCL Web Apps + TLS/SSL
+
+- You can access the RCL Web Apps + TLS/SSL SaaS application at the following url:
+
+https://rcl-cloudapps.azurewebsites.net
+
+- You can also access the application in the Azure portal
+
+- In the Azure portal, search for Software as a Service (SaaS) and open it
+
+![subscription](images/subscribe-saas.PNG)
+
+- Click on the SaaS application to open it
+
+![subscription](images/subscribe-saas2.PNG)
+
+- You can now view the details of the application
+
+![subscription](images/subscribe-saas3.PNG)
+
+- Click on the 'Manage Account' link to access the application
 
 # Next Lesson
 
