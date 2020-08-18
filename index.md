@@ -20,4 +20,4 @@ With cloud computing, you don’t have to over-provision resources up front to h
 
 # Next Lesson
 
-[Lesson 1 Cloud Subscription](https://rcl-cloud-apps.github.io/cloud101/1-subscription.html)
+[Cloud Subscription](https://rcl-cloud-apps.github.io/cloud101/subscription.html)
