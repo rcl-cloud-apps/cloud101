@@ -6,7 +6,7 @@ nav_order: 8
 
 # Lesson: DNS
 
-A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product. In this lesson, you will learn how to set up a Domain Name System (DNS).
+A **domain name** is the web address that people type into the URL browser box to access your website. Your domain name can be based on the name of your organization or product (eg: microsoft.com, google.com, disney.com). In this lesson, you will learn how to set up a Domain Name System (DNS).
 
 ## Register a domain name
 
@@ -18,7 +18,7 @@ A **domain name** is the web address that people type into the URL browser box t
 
 ## Create a DNS Zone
 
-A DNS Zone is use to manage your DNS records. DNS records are used to map your website to your domain name.
+A DNS Zone is used to manage your DNS records. DNS records map your website to your domain name.
 
 - In the 'RCL Web Apps + TLS/SSL' portal, click on 'DNS' and then click on 'Create a new DNS Zone'
 

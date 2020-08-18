@@ -62,7 +62,7 @@ if you don't see the new web app, wait a few minutes and click on the refresh li
 
 ![webapp](images/webapp-nop-install.PNG)
 
-- Add SQL Server name, Database name, SQL Server username and password. You will get the SQL Server name on the Database Server **Properties** page.
+- Add SQL Server name, Database name, SQL Server username and password. You will the information to connect to the database on the [Database Properties](https://rcl-cloud-apps.github.io/cloud101/database.html#database-properties) page.
 
 - Click the 'Install' button when you are done
 

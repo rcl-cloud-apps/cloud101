@@ -10,13 +10,13 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 
 ## Prerequisites
 
-- Before you proceed with this lesson, you should have registered a [domain name](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) with a domain registrar, eg: GoDaddy
+- Before you proceed with this lesson, you should have registered a [domain name](https://rcl-cloud-apps.github.io/cloud101/dns.html) with a domain registrar, eg: GoDaddy
 
-- You should have created a [DNS Zone](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) in your Subscription
+- You should have created a [DNS Zone](https://rcl-cloud-apps.github.io/cloud101/dns.html#create-a-dns-zone) in your Subscription
 
-- You should have [delegated](https://rcl-cloud-apps.github.io/cloud101/6-dns.html) your DNS from your domain registrar to your DNS Zone
+- You should have [delegated](https://rcl-cloud-apps.github.io/cloud101/dns.html#dns-delegation) your DNS from your domain registrar to your DNS Zone
 
-- You should have created a [Web App](https://rcl-cloud-apps.github.io/cloud101/5-webapp.html) in your Subscription
+- You should have created a [Web App](https://rcl-cloud-apps.github.io/cloud101/webapp.html) in your Subscription
 
 ## Create a Custom Domain
 
@@ -30,11 +30,11 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 
 ![custom-domain](images/custom-domain-add.PNG)
 
-- Select the 'Web App'
+- Select the 'Web App' and click the 'Submit' button
 
 ![custom-domain](images/custom-domain-create.PNG)
 
-- Add the custom domain you registered and your DNS Zone
+- Add the custom domain you registered in your DNS Zone
 
 ![custom-domain](images/custom-domain-create2.PNG)
 
@@ -46,7 +46,7 @@ Your website is currently hosted with a shared domain name , eg: 'https://nop-69
 
 ![custom-domain](images/custom-domain-list.PNG)
 
-- You can navigate to your custom domain using your custom domain, eg : 'https://shopeneur.com', and you will be able to access your website in the browser
+- You can navigate to your website using your custom domain, eg : 'https://shopeneur.com', in your web browser
 
 ![custom-domain](images/custom-domain-site.PNG)
 
