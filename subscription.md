@@ -12,7 +12,7 @@ In this lesson, you will subscribe for a free 30 day trial of the **Microsoft Az
 
 ## Subscribe to Microsoft Azure Cloud
 
-- Navigate to the [Microsoft Azure Website](https://azure.microsoft.com/en-us/free/)
+- Navigate to the Microsoft Azure Website : https://azure.microsoft.com/en-us/free
 
 - Click on the 'Start Free' button to subscribe for your free 30 day trial
 
@@ -103,7 +103,7 @@ In this section, you will subscribe for a free 30 day trial of the **RCL Web App
 
 - You can access the RCL Web Apps + TLS/SSL SaaS application at the following url:
 
-[https://rcl-cloudapps.azurewebsites.net](https://rcl-cloudapps.azurewebsites.net)
+https://rcl-cloudapps.azurewebsites.net
 
 - You can also access the application in the Azure portal
 

@@ -10,7 +10,7 @@ A **domain name** is the web address that people type into the URL browser box t
 
 ## Register a domain name
 
-- Register your domain name with a domain registrar, eg: [Godaddy](https://www.godaddy.com/domains) 
+- Register your domain name with a domain registrar, eg: Godaddy https://www.godaddy.com/domains
 
 ![dns](images/dns-godaddy.PNG)
 
